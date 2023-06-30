@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD89E1A32A4CC3B700BDC081 /* charcoalHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD89E1A22A4CC3B700BDC081 /* charcoalHistory.swift */; };
+		BD8D88282A4CAF1C005FB388 /* charcoalReferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8D88272A4CAF1C005FB388 /* charcoalReferences.swift */; };
+		BD90CFE12A4B24ED00CAC388 /* tutorials.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD90CFE02A4B24ED00CAC388 /* tutorials.swift */; };
+		BD9423AB2A4CA5580077C01E /* charcoalMaterials.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9423AA2A4CA5580077C01E /* charcoalMaterials.swift */; };
+		BD9658F62A4F14DB002046C8 /* Crochets.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9658F52A4F14DB002046C8 /* Crochets.swift */; };
+		BD9658F82A4F1614002046C8 /* crochetTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9658F72A4F1614002046C8 /* crochetTutorial.swift */; };
+		BD9658FA2A4F175D002046C8 /* crochetHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9658F92A4F175D002046C8 /* crochetHistory.swift */; };
+		BD9693442A4DC9AE0063C183 /* charcoalHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9693432A4DC9AE0063C183 /* charcoalHome.swift */; };
+		BD9693462A4DCA170063C183 /* homePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9693452A4DCA170063C183 /* homePage.swift */; };
+		BD9693482A4DD44A0063C183 /* crochetHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9693472A4DD44A0063C183 /* crochetHome.swift */; };
+		BD96934A2A4DD4620063C183 /* digitalHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9693492A4DD4620063C183 /* digitalHome.swift */; };
 		BD9F06FE2A4A197C00643637 /* practiceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9F06FD2A4A197C00643637 /* practiceApp.swift */; };
 		BD9F07002A4A197C00643637 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9F06FF2A4A197C00643637 /* ContentView.swift */; };
 		BD9F07022A4A197E00643637 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD9F07012A4A197E00643637 /* Assets.xcassets */; };
@@ -14,6 +25,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD89E1A22A4CC3B700BDC081 /* charcoalHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = charcoalHistory.swift; sourceTree = "<group>"; };
+		BD8D88272A4CAF1C005FB388 /* charcoalReferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = charcoalReferences.swift; sourceTree = "<group>"; };
+		BD90CFE02A4B24ED00CAC388 /* tutorials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tutorials.swift; sourceTree = "<group>"; };
+		BD9423AA2A4CA5580077C01E /* charcoalMaterials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = charcoalMaterials.swift; sourceTree = "<group>"; };
+		BD9658F52A4F14DB002046C8 /* Crochets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Crochets.swift; sourceTree = "<group>"; };
+		BD9658F72A4F1614002046C8 /* crochetTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = crochetTutorial.swift; sourceTree = "<group>"; };
+		BD9658F92A4F175D002046C8 /* crochetHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = crochetHistory.swift; sourceTree = "<group>"; };
+		BD9693432A4DC9AE0063C183 /* charcoalHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = charcoalHome.swift; sourceTree = "<group>"; };
+		BD9693452A4DCA170063C183 /* homePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homePage.swift; sourceTree = "<group>"; };
+		BD9693472A4DD44A0063C183 /* crochetHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = crochetHome.swift; sourceTree = "<group>"; };
+		BD9693492A4DD4620063C183 /* digitalHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = digitalHome.swift; sourceTree = "<group>"; };
 		BD9F06FA2A4A197C00643637 /* practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD9F06FD2A4A197C00643637 /* practiceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = practiceApp.swift; sourceTree = "<group>"; };
 		BD9F06FF2A4A197C00643637 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +75,17 @@
 			children = (
 				BD9F06FD2A4A197C00643637 /* practiceApp.swift */,
 				BD9F06FF2A4A197C00643637 /* ContentView.swift */,
+				BD9693452A4DCA170063C183 /* homePage.swift */,
+				BD9693472A4DD44A0063C183 /* crochetHome.swift */,
+				BD9658F92A4F175D002046C8 /* crochetHistory.swift */,
+				BD9658F72A4F1614002046C8 /* crochetTutorial.swift */,
+				BD9658F52A4F14DB002046C8 /* Crochets.swift */,
+				BD9693492A4DD4620063C183 /* digitalHome.swift */,
+				BD89E1A22A4CC3B700BDC081 /* charcoalHistory.swift */,
+				BD9423AA2A4CA5580077C01E /* charcoalMaterials.swift */,
+				BD90CFE02A4B24ED00CAC388 /* tutorials.swift */,
+				BD9693432A4DC9AE0063C183 /* charcoalHome.swift */,
+				BD8D88272A4CAF1C005FB388 /* charcoalReferences.swift */,
 				BD9F07012A4A197E00643637 /* Assets.xcassets */,
 				BD9F07032A4A197E00643637 /* Preview Content */,
 			);
@@ -137,8 +170,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD9658FA2A4F175D002046C8 /* crochetHistory.swift in Sources */,
 				BD9F07002A4A197C00643637 /* ContentView.swift in Sources */,
+				BD9658F62A4F14DB002046C8 /* Crochets.swift in Sources */,
+				BD96934A2A4DD4620063C183 /* digitalHome.swift in Sources */,
+				BD9423AB2A4CA5580077C01E /* charcoalMaterials.swift in Sources */,
 				BD9F06FE2A4A197C00643637 /* practiceApp.swift in Sources */,
+				BD9693442A4DC9AE0063C183 /* charcoalHome.swift in Sources */,
+				BD90CFE12A4B24ED00CAC388 /* tutorials.swift in Sources */,
+				BD8D88282A4CAF1C005FB388 /* charcoalReferences.swift in Sources */,
+				BD9658F82A4F1614002046C8 /* crochetTutorial.swift in Sources */,
+				BD89E1A32A4CC3B700BDC081 /* charcoalHistory.swift in Sources */,
+				BD9693482A4DD44A0063C183 /* crochetHome.swift in Sources */,
+				BD9693462A4DCA170063C183 /* homePage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
